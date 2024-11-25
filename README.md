@@ -11,8 +11,6 @@ Calculation of forces between particles based on their charges and distances.
 Visualization of particle interactions using a graphical user interface (GUI).
 Support for three simulation modes: sequential, parallel, and distributive.
 Performance testing and analysis for each simulation mode.
-Getting Started
-To run the Particle Simulator on your local machine, follow these steps:
 
 Prerequisites
 
